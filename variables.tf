@@ -1,5 +1,5 @@
 variable "create_efs" {
-  description = "Controls if EFS bucket should be created"
+  description = "Controls if EFS should be created"
   type        = bool
   default     = true
 }
